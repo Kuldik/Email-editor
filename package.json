@@ -1,6 +1,7 @@
 {
   "name": "email-editor",
   "private": true,
+  "homepage": "https://Kuldik.github.io/Email-editor"
   "version": "0.0.0",
   "type": "module",
   "scripts": {
